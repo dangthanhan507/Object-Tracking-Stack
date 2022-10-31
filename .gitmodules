@@ -1,0 +1,6 @@
+[submodule "Yolov5_StrongSORT_OSNet"]
+	path = Yolov5_StrongSORT_OSNet
+	url = https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet
+[submodule "xivo"]
+	path = xivo
+	url = https://github.com/ucla-vision/xivo.git

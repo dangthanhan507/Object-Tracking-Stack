@@ -1,0 +1,4 @@
+# this is requirements pertaining specifically to Object Tracking research project
+# python3 -m pip install -r requirements.txt
+
+pyrealsense2
